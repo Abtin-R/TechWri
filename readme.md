@@ -26,4 +26,5 @@ Create a persona for one reader of your blog and answer the following questions.
 
 # Website Instructions:
 
-Click on this [link](https://abtin-r.github.io/TechWri/finalcopy/index.html) to access my website.
+Click on this [link](https://abtin-r.github.io/TechWri//finalcopy/index.html
+) to access my website.
