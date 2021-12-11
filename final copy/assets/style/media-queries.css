@@ -1,0 +1,534 @@
+@media screen and (min-width: 320px) {
+    nav { display: none;}
+    .mobile-nav {display: block; }
+
+  .col-md-6 {
+        flex: 0 0 140%;
+        max-width: 140%;
+    }
+    .footer-i {
+        margin-top: 1000px;
+    }
+
+    .info {
+        margin-top: 0px;
+        margin-bottom: 835px;
+    }
+     .hero-banner h2{
+    
+        font-size: 40px;
+    
+    }
+    
+    .hero-banner h3{
+       
+        font-size: 22px;
+   
+    }
+    
+    .hero-banner p{
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .button {
+        width: 200px;
+        font-size: 12px;
+    }
+
+    .callToAction {
+        font-size: 16px;
+
+    }
+    .callToActionButton {
+        width: 200px;
+        font-size: 10px;
+       
+    }
+    .tall {
+        height: 300px;
+    }
+
+    .form h2 {
+        font-size: 24px;
+    }
+    article {
+        margin: 0 auto;
+        width: 100%;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .roundone {
+    
+        width: 100px;
+        height: 100px;
+     
+      }
+    
+      .roundtwo {
+ 
+        width: 100px;
+        height: 100px;
+   
+      }
+    
+      .roundthree {
+    
+        width: 100px;
+        height: 100px;
+   
+      }
+      
+      .overlay {
+        width: 80%;
+      }
+      .right h1{
+      
+        font-size: 64px;
+      }
+    
+      .right h3 {
+          font-size: 24px;
+      }
+    
+      .right p {
+          font-size: 15px;
+      }
+}
+
+@media screen and (min-width: 580px) {
+    
+    nav { display: none;}
+    .mobile-nav {display: block; }
+  
+    .footer-i {
+        margin-top: 500px;
+    }
+    
+    .col-md-6 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .coltwo-md-6 {
+
+        flex-direction: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .info {
+        margin-top: 0px;
+        margin-bottom: 835px;
+    }
+    
+    .hero-banner h2{
+    
+        font-size: 46px;
+    
+    }
+    
+    .hero-banner h3{
+       
+        font-size: 24px;
+   
+    }
+    
+    .hero-banner p{
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .button {
+        width: 200px;
+        font-size: 12px;
+    }
+
+    .callToAction {
+        font-size: 16px;
+
+    }
+    .callToActionButton {
+        width: 200px;
+        font-size: 10px;
+       
+    }
+   
+    .tall {
+        height: 450px;
+    }
+       
+    .form h2 {
+        font-size: 28px;
+    }
+
+    article {
+        margin: 0 auto;
+        width: 100%;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    article p {
+      
+        font-size: 14px;
+      
+      }
+     
+      
+      article p a {
+       
+        font-size: 14px;
+        
+      }
+      
+       article p a:hover {
+        text-decoration: underline;
+      }
+      
+      article h2{
+     
+        font-size: 20px;
+       
+      }
+      
+      article h1 
+      {
+       
+        font-size: 32px;
+      }
+      .roundone {
+    
+        width: 105px;
+        height: 105px;
+     
+      }
+    
+      .roundtwo {
+ 
+        width: 105px;
+        height: 105px;
+   
+      }
+    
+      .roundthree {
+    
+        width: 105px;
+        height: 105px;
+   
+      }
+      
+      .overlay {
+        width: 100%;
+      }
+
+      .right h1{
+      
+        font-size: 64px;
+      }
+    
+      .right h3 {
+          font-size: 24px;
+      }
+    
+      .right p {
+          font-size: 15px;
+      }
+}
+
+@media screen and (min-width: 768px) {
+
+    nav { display: block;}
+    .mobile-nav {display: none; }
+
+    footer {
+        margin-top: 0px;
+    }
+    
+    .contianer, .row-container{
+        max-width: 800px;      
+    }
+
+    nav { display: block;}
+    .mobile-nav {display: none; }
+
+    
+
+    .col-md-6 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .coltwo-md-6 {
+
+        flex-direction: 0 0 50%;
+        max-width: 50%;
+    }
+    .info {
+        margin-top: 0px;
+        margin-bottom: 180px;
+    }
+    .hero-banner h2 {
+        font-size: 46px;
+    }
+    .hero-banner h3 {
+        font-size: 24px;
+    }
+
+    .button {
+        width: 250px;
+        font-size: 18px;
+    }
+    .callToAction {
+        font-size: 16px;
+
+    }
+    .callToActionButton {
+        width: 250px;
+        font-size: 14px;
+       
+    }
+
+    .hero-banner h2{
+    
+        font-size: 46px;
+    
+    }
+    
+    .hero-banner h3{
+       
+        font-size: 24px;
+   
+    }
+    
+    .hero-banner p{
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .tall {
+        height: 400px;
+    }
+    .form h2 {
+        font-size: 24px;
+    }
+    article {
+        margin: 0 auto;
+        width: 85%;
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+
+    article p {
+      
+        font-size: 18px;
+      
+      }
+     
+      
+      article p a {
+       
+        font-size: 18px;
+        
+      }
+      
+       article p a:hover {
+        text-decoration: underline;
+      }
+      
+      article h2{
+     
+        font-size: 26px;
+       
+      }
+      
+      article h1 
+      {
+       
+        font-size: 34px;
+      }
+      .roundone {
+    
+        width: 125px;
+        height: 125px;
+     
+      }
+    
+      .roundtwo {
+ 
+        width: 125px;
+        height: 125px;
+   
+      }
+    
+      .roundthree {
+    
+        width: 125px;
+        height: 125px;
+   
+      }
+    
+      .overlay {
+        width: 100%;
+      }
+      .right h1{
+      
+        font-size: 68px;
+      }
+    
+      .right h3 {
+          font-size: 26px;
+      }
+    
+      .right p {
+          font-size: 17px;
+      }
+}
+
+@media screen and (min-width: 1024px) {
+
+    nav { display: block;}
+    .mobile-nav {display: none; }
+    
+    .footer-i {
+        margin-top: 0px;
+    }
+
+    .twoL {
+        flex-direction: 0 0 50% !important;
+        width:50% !important;
+    }
+    .contianer, .row-container{
+        max-width: 1140px;      
+    }
+
+    nav { display: block;}
+    .mobile-nav {display: none; }
+   
+
+    .col-lg-3 {
+        flex: 0 0 25%;
+        width: 25%;
+    }
+    .coltwo-lg-3 {
+
+        flex-direction: 0 0 50%;
+        width: 50%;
+    }
+
+    .info {
+        margin-top: 0px;
+        margin-bottom: 180px;
+    }
+ 
+    .button {
+        width: 250px;
+        font-size: 18px;
+    }
+    .callToAction {
+        font-size: 16px;
+
+    }
+    .callToActionButton {
+        width: 250px;
+        font-size: 14px;
+       
+    }
+
+
+    .hero-banner h2{
+    
+        font-size: 46px;
+    
+    }
+    
+    .hero-banner h3{
+       
+        font-size: 24px;
+   
+    }
+    
+    .hero-banner p{
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+
+    .tall {
+        height: 330px;
+    }
+
+    .form h2 {
+        font-size: 28px;
+    }
+    article {
+        margin: 0 auto;
+        width: 75%;
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+
+    article p {
+      
+        font-size: 18px;
+      
+      }
+     
+      
+      article p a {
+       
+        font-size: 18px;
+        
+      }
+      
+       article p a:hover {
+        text-decoration: underline;
+      }
+      
+      article h2{
+     
+        font-size: 26px;
+       
+      }
+      
+      article h1 
+      {
+       
+        font-size: 38px;
+      }
+        
+
+      .roundone {
+    
+        width: 115px;
+        height: 115px;
+     
+      }
+    
+      .roundtwo {
+ 
+        width: 115px;
+        height: 115px;
+   
+      }
+    
+      .roundthree {
+    
+        width: 115px;
+        height: 115px;
+   
+      }
+
+      .overlay {
+        width: 100%;
+      }
+
+      .right h1{
+      
+        font-size: 64px;
+      }
+    
+      .right h3 {
+          font-size: 24px;
+      }
+    
+      .right p {
+          font-size: 15px;
+      }
+    
+      
+    
+     
+}
